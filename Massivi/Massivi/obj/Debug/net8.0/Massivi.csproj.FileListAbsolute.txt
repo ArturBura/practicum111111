@@ -1,0 +1,14 @@
+C:\Users\Lucky-Buy.md\source\repos\Massivi\Massivi\bin\Debug\net8.0\Massivi.exe
+C:\Users\Lucky-Buy.md\source\repos\Massivi\Massivi\bin\Debug\net8.0\Massivi.deps.json
+C:\Users\Lucky-Buy.md\source\repos\Massivi\Massivi\bin\Debug\net8.0\Massivi.runtimeconfig.json
+C:\Users\Lucky-Buy.md\source\repos\Massivi\Massivi\bin\Debug\net8.0\Massivi.dll
+C:\Users\Lucky-Buy.md\source\repos\Massivi\Massivi\bin\Debug\net8.0\Massivi.pdb
+C:\Users\Lucky-Buy.md\source\repos\Massivi\Massivi\obj\Debug\net8.0\Massivi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucky-Buy.md\source\repos\Massivi\Massivi\obj\Debug\net8.0\Massivi.AssemblyInfoInputs.cache
+C:\Users\Lucky-Buy.md\source\repos\Massivi\Massivi\obj\Debug\net8.0\Massivi.AssemblyInfo.cs
+C:\Users\Lucky-Buy.md\source\repos\Massivi\Massivi\obj\Debug\net8.0\Massivi.csproj.CoreCompileInputs.cache
+C:\Users\Lucky-Buy.md\source\repos\Massivi\Massivi\obj\Debug\net8.0\Massivi.dll
+C:\Users\Lucky-Buy.md\source\repos\Massivi\Massivi\obj\Debug\net8.0\refint\Massivi.dll
+C:\Users\Lucky-Buy.md\source\repos\Massivi\Massivi\obj\Debug\net8.0\Massivi.pdb
+C:\Users\Lucky-Buy.md\source\repos\Massivi\Massivi\obj\Debug\net8.0\Massivi.genruntimeconfig.cache
+C:\Users\Lucky-Buy.md\source\repos\Massivi\Massivi\obj\Debug\net8.0\ref\Massivi.dll
